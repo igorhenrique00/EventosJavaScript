@@ -1,0 +1,20 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background:white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  }
+.bloco {
+  height: 300px;
+  width: 300px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  display: flex;
+}
+body {
+  margin: 0px;
+}
